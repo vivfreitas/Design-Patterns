@@ -8,9 +8,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="PadraoComportamental\Observer\" />
-      <Folder Include="PadraoComportamental\Strategy\" />
-      <Folder Include="PadraoCriacional\Abstract Factory\" />
       <Folder Include="PadraoCriacional\FactoryMethod\" />
       <Folder Include="PadraoEstrutual\Proxy\" />
     </ItemGroup>

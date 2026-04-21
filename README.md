@@ -14,7 +14,7 @@ ___
 
 - **Padrões Criacionais**: Fornecem mecanismos de criação de objetos que aumentam a flexibilidade e a reutilização de código.
 - **Padrões Estruturais**: Explicam como montar objetos e classes em estruturas maiores, enquanto ainda mantém as estruturas flexíveis e eficientes.
-- **Padrões Comportamentais**:  cuidam da comunicação eficiente e da assinalação de responsabilidades entre objetos.
+- **Padrões Comportamentais**: Definem como objetos interagem, distribuem responsabilidades e coordenam comportamentos de forma desacoplada.
 ___
 ### 📣 ATENÇÃO
 O código acima estão em **CSharp (C#)**, linguagem orientada a objeto para um melhor entendimento.
